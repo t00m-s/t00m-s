@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 MSc student @ Ca'Foscari University of Venice.
-- 🌱 I’m currently learning about cybersecurity and building another dotfiles manager for my personal use.
+- 🌱 I’m currently learning about cybersecurity, also some other stuff like ansible.
 - ⚡ Fun fact: quack.
    
 ![You](https://komarev.com/ghpvc/?username=t00m-s)
